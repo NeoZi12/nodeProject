@@ -13,4 +13,4 @@ This is the second paragraph.
 
 [Google](https://www.google.com)
 
-![Alt text](https://example.com/image.jpg)
+![Pic](https://github.com/NeoZi12/nodeProject/blob/main/images.jpg)
