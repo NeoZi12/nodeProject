@@ -14,3 +14,8 @@ This is the second paragraph.
 [Google](https://www.google.com)
 
 ![Pic](https://github.com/NeoZi12/nodeProject/blob/main/images.jpg)
+
+  ```
+  const name = "Dan";
+  let age = 20
+  ```
