@@ -13,3 +13,4 @@ This is the second paragraph.
 
 [Google](https://www.google.com)
 
+![Alt text](https://example.com/image.jpg)
